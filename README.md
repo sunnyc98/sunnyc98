@@ -1,4 +1,4 @@
-### Hey 👋 I'm Jungyoub Cha.
+### Hey 👋 I'm Jeongyoub Cha.
 
 <p>
 
