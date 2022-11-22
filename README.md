@@ -3,8 +3,8 @@
 <p>
 
 I'm currently an undergraduate student studying EE in <strong><a href="https://www.kaist.ac.kr/en/">KAIST</a></strong>, South Korea. 
-<br>Although I used to study semiconductors and circuits, my interest now lies in <strong>AI, Machine Learning</strong> and more recently <strong>NLP</strong>.
-<br>I'm committed to becoming a <strong>powerful researcher in NLP</strong>. Feel free to reach out! 
+<br>My interests mainly lie in <strong>AI, Machine Learning</strong> and more recently <strong>NLP</strong>.
+<br>I'm committed to becoming a <strong>powerful researcher in the field of NLP</strong>. Feel free to reach out! 
 </p>
 
 <br>
