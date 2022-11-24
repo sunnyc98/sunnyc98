@@ -11,9 +11,8 @@ I'm currently an undergraduate student studying EE in <strong><a href="https://w
 🔭 I’m currently working/studying on: 
 	<p style="margin-bottom:1cm;">
   <p>
-         &ensp;&ensp; - NER analysis and Event Extraction of malicious comments
-        <br> &ensp;&ensp; - Aspect Based Sentiment Analysis (ABSA)
-        <br> &ensp;&ensp; - Prompt-based Learning
+         &ensp;&ensp; - NER analysis on Korean user-generated text data
+        <br> &ensp;&ensp; - Event Extraction as a modified task of Semantic Role Labeling
 <br>
 <br>
 </p>
