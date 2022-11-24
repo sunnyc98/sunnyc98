@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working/studying on:
-      - NER analysis and Event Extraction on malicious comments,
-      - Aspect Based Sentiment Analysis (ABSA),
-      - Graph Neural Networks.
+      - NER analysis on Korean user-generated text data
+      - Event Extraction as a modified task of Semantic Role Labeling
 - 📫 How to reach me: ...
 
 - 😄 Pronouns: ...
