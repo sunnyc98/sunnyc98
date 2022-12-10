@@ -3,7 +3,7 @@
 <p>
 
 I'm currently an undergraduate student of the EE department at <strong><a href="https://www.kaist.ac.kr/en/">KAIST</a></strong>, South Korea. 
-<br>My interests broadly lie in <strong>Machine Learning, AI</strong> and especially <strong>NLP</strong>.
+<br>My interests mainly lie in <strong>Machine Learning, AI</strong> and especially <strong>NLP</strong>.
 <br>I'm committed to becoming a powerful <strong>researcher in the field of NLP</strong>. Feel free to reach out! 
 </p>
 
