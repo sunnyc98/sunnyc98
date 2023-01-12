@@ -17,17 +17,7 @@ I'm currently an undergraduate student of the EE department at <strong><a href="
 <br>
 </p>
 📫 How to reach me: <br><br>
-    &nbsp;<a href="https://www.instagram.com/yubb3/">
-         <img alt="IG" src="https://user-images.githubusercontent.com/97519387/195398291-11ab8bdc-01af-431d-8604-18329628e1b6.png"
-         width=30" height="30"> &nbsp;
-    <a href="mailto:jungyoub.cha@kaist.ac.kr">
-         <img alt="mail" src="https://user-images.githubusercontent.com/97519387/195399316-09999440-e096-4ef5-a550-5120ae5b1c88.png"
-         width=30" height="30">
-<br>
-
-
-
-
+    <a href="mailto:jungyoub.cha@kaist.ac.kr"> <img alt="mail" src="https://user-images.githubusercontent.com/97519387/195399316-09999440-e096-4ef5-a550-5120ae5b1c88.png" width="30" height="30">  </a> <a href="https://www.instagram.com/yubb3/"> <img alt="LinkedIn" src="https://user-images.githubusercontent.com/97519387/212090212-4cdc5d4c-3291-4206-a36d-2de01a799ca9.png" width="30" height="30"> </a>
 <!--
 
 **sunnyc98/sunnyc98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
