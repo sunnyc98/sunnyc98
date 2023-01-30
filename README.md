@@ -1,4 +1,4 @@
-### Hey 👋 I'm Jungyoub (Jayden) Cha.
+### Hey 👋 I'm Jungyoub Cha.
 
 <p>
 
