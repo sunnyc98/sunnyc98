@@ -8,11 +8,10 @@ I'm currently an undergraduate student of the EE department at <strong><a href="
 </p>
 
 <br>
-🔭 I’m currently working/studying on: 
+🔭 I’m currently studying: 
 	<p style="margin-bottom:1cm;">
   <p>
-         &ensp;&ensp; - NER analysis on Korean user-generated text data
-        <br> &ensp;&ensp; - SRL-based approach of Event Extraction in Korean
+         &ensp;&ensp; - Controllable Text Generation
 <br>
 <br>
 </p>
