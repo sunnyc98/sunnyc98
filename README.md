@@ -1,18 +1,8 @@
 ### Hey 👋 I'm Jungyoub Cha.
 
-<p>
-
-I'm currently an undergraduate student of the EE department at <strong><a href="https://www.kaist.ac.kr/en/">KAIST</a></strong>. 
-<br>My interests mainly lie in <strong>Machine Learning, AI</strong> and especially <strong>NLP</strong>.
-<br>Feel free to reach out! 
-</p>
-
-<br>
-🔭 I’m currently studying: 
-	<p style="margin-bottom:1cm;">
-  <p>
-         &ensp;&ensp; - Controllable Text Generation
-<br>
+I'm currently an undergraduate student of the EE department at <strong><a href="https://www.kaist.ac.kr/en/">KAIST</a></strong> and a research intern at <strong><a href="http://davian.kaist.ac.kr/">DAVIAN Lab</a></strong>.
+<br>My interests mainly lie in **Machine Learning**, **Natural Language Processing** and more recently **Speech Recognition**.
+<br>Feel free to reach out!
 <br>
 </p>
 📫 How to reach me: <br><br>
