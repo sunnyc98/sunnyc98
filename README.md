@@ -14,11 +14,6 @@ I'm currently an undergraduate student of the EE department at <strong><a href="
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working/studying on:
-      - NER analysis on Korean user-generated text data
-      - Event Extraction as a modified task of Semantic Role Labeling
-- 📫 How to reach me: ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
