@@ -2,7 +2,7 @@
 
 I'm currently an undergraduate student of the EE department at <strong><a href="https://www.kaist.ac.kr/en/">KAIST</a></strong>.
 <br>My interests mainly lie in **Machine Learning**, **Natural Language Processing** and more recently **Speech Recognition**.
-<br>Feel free to reach out!
+<br>
 <br>
 </p>
 📫 How to reach me: <br><br>
